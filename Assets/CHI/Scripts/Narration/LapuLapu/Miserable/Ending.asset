@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e10cbb3e5b0e613458f5d4037bf8f6bc, type: 3}
+  m_Name: Ending
+  m_EditorClassIdentifier: 
+  sentence:
+  - "Huli na ang lahat para itama ang mga pag-kakamaling nagawa ni Lapu-Lapu sa kanyang
+    mga tapat na tauhan sa kanyang pamilya at sakanyang bayan siya ay napaslang sa
+    pakikipag laban kay Magellan Si Lapu-lapu ay kinilala bilang ang traydor ng Mactan\r\n"

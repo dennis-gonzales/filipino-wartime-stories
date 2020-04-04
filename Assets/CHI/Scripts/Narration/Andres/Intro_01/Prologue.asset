@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e10cbb3e5b0e613458f5d4037bf8f6bc, type: 3}
+  m_Name: Prologue
+  m_EditorClassIdentifier: 
+  sentence:
+  - "Daang taon na ang nakaka lipas patuloy padin ang mga kastila sa pang aalipusta
+    sa mga Pilipino at sa panahon nayon ay ipinanganak ang tunay na unang pangulo
+    at lider ng katipunan\r\nna si  ANDRES BONIFACIO"
+  - "Panahong 1892 kung saan si Jose Rizal ay dinakip ng mga espanyol dahil sa pangyayaring
+    ito ay biglang nag siklab ang nanghihinang apoy ng mga pilipino at naitatag ang
+    KKK o ang \r\nKATAAS TAASANG KAGALANGGALANG KATIPUNAN NG MGA ANAK NG BAYAN ito
+    ay isang sikretong organisasyon na ipinag lalaban ang kanilang kalayaan laban
+    sa mga espanyol"
+  - Nalaman ng mga taga espanya ang tungkol sa Katipunan noong Agosto 19 1896 dahil
+    dito daang pilipino ang inaresto inosente man o hindi ay hinatulan ng kamatayan
+    dahil dito ay itinangka ni Andres Bonifacio na kumbinsihin si Jose Rizal na sumama
+    sa kaniyang rebolusyon pero bago iyon ay kailangan muna niyang pasukin ang lugar
+    kung saan nakakulong si Rizal
